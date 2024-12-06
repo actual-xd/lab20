@@ -1,0 +1,14 @@
+.root{
+    -fx-font-family: 'Bahnscrift';
+    -fx-font-size: 15px;
+    -fx-background-image: url("/fuckinginsane.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+#sendRequest{
+    -fx-transform-origin: center center;
+    -fx-padding: 5 10 5 10;
+    -fx-font-size: 15px;
+}
